@@ -1,7 +1,7 @@
 (ns clope.core-test
   (:require [clojure.test :refer [deftest is]]
             [clojure.test.check :as tc]
-            [clojure.test.check.generators :as g]
+            [clojure.test.check.generators :as g #?@(:cljs [:include-macros true])]
             [clojure.test.check.properties :as p #?@(:cljs [:include-macros true])]
             [clope.core :as c]))
 

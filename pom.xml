@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>clope</groupId>
     <artifactId>clope</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
     <name>clope</name>
     <description>Byte ropes for clojure and clojurescript.</description>
     <url>https://github.com/leonoel/clope</url>
@@ -16,7 +16,7 @@
     <scm>
         <connection>scm:git:git://github.com/leonoel/clope.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/leonoel/clope.git</developerConnection>
-        <tag></tag>
+        <tag>f7eb302ebce63b2664de5e65edbcaf198ae09da4</tag>
         <url>https://github.com/leonoel/clope</url>
     </scm>
     <distributionManagement>
